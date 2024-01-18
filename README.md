@@ -1,2 +1,1 @@
-# pub_note
-public note
+# Learn Note
